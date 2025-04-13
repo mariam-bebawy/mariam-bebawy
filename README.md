@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 🍋
+
+<!-- u8 badge -->
+[![Mariam Bebawy profile views](https://u8views.com/api/v1/github/profiles/61348010/views/day-week-month-total-count.svg)](https://u8views.com/github/mariam-bebawy)
 
 <!--
 **mariam-bebawy/mariam-bebawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
